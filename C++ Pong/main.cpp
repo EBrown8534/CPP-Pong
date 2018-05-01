@@ -1,5 +1,5 @@
 // Include the basic headers we need, the Windows API headers, and the DirectX 9 headers.
-#include "main.h"
+#include "main.hpp"
 #include <iostream>
 #include <sstream>
 #include <string>
